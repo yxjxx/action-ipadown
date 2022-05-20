@@ -25,7 +25,7 @@ on:
       appCountry:
         description: 'AppStore Country (needed when using non-*_id operations)'
         required: false
-        default: 'JP'
+        default: 'VN'
       
       appVerId:
         description: 'App Version Id Number (for downloading history versions)'
